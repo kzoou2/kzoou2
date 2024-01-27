@@ -1,3 +1,4 @@
+
 ## Hey 👋, This is Kyung Joo
 
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joou3982@gmail.com)[![wakatime](https://wakatime.com/badge/user/018d1ca9-f45f-41c7-8716-a5f010f313d0.svg)](https://wakatime.com/@018d1ca9-f45f-41c7-8716-a5f010f313d0)
@@ -5,8 +6,6 @@
 
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-<a>
 **I'm an Early 🐤** 
 
 ```text
@@ -15,10 +14,9 @@
 🌃 Evening                43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
 🌙 Night                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
-</a>
 
-<a>
-  📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
@@ -29,7 +27,6 @@ Friday                   4 commits           ░░░░░░░░░░░�
 Saturday                 45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
 Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
-</a>
 
 
 
