@@ -10,18 +10,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
 
-**🐱 My GitHub Data** 
 
-> 📦 59.1 kB Used in GitHub's Storage 
- > 
-> 🏆 40 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -76,14 +65,6 @@ Java                     1 repo              ████░░░░░░░�
 HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/kzoou2/kzoou2/main/assets/bar_graph.png)
-
-
- Last Updated on 27/01/2024 18:33:26 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/kzoou2/github-readme-stats">
