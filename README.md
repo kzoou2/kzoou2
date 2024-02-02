@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
@@ -50,16 +50,17 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 35 mins        █████████████████████████   100.00 % 
+JavaScript               1 hr 26 mins        ███████████████████████░░   91.76 % 
+CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BB_Frontend              1 hr 35 mins        █████████████████████████   100.00 % 
+BB_Frontend              1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -79,7 +80,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kzoou2/kzoou2/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2024 18:34:33 UTC
+ Last Updated on 02/02/2024 18:35:14 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/kzoou2/github-readme-stats">
