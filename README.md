@@ -8,15 +8,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 64.7 kB Used in GitHub's Storage 
- > 
-> 🏆 65 Contributions in the Year 2024
+> 📦 64.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,18 +49,18 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               7 hrs 21 mins       ████████████████████████░   97.68 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               6 hrs 12 mins       ████████████████████████░   97.32 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BB_Frontend              7 hrs 31 mins       █████████████████████████   100.00 % 
+BB_Frontend              6 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -82,7 +80,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kzoou2/kzoou2/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2024 18:33:24 UTC
+ Last Updated on 17/02/2024 18:33:30 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/kzoou2/github-readme-stats">
