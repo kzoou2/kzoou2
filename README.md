@@ -16,6 +16,8 @@
 
 > 📦 64.8 kB Used in GitHub's Storage 
  > 
+> 🏆 65 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -80,7 +82,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kzoou2/kzoou2/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2024 18:33:30 UTC
+ Last Updated on 18/02/2024 18:33:26 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/kzoou2/github-readme-stats">
