@@ -8,22 +8,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2024%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 64.8 kB Used in GitHub's Storage 
- > 
-> 🏆 65 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -44,46 +28,6 @@ Saturday                 46 commits          █████░░░░░░�
 Sunday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-JavaScript               10 hrs 41 mins      █████████████████████████   98.35 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 51 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-BB_Frontend              10 hrs 51 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/kzoou2/kzoou2/main/assets/bar_graph.png)
-
-
- Last Updated on 20/02/2024 18:34:34 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/kzoou2/github-readme-stats">
