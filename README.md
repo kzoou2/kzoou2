@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,7 +78,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kzoou2/kzoou2/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2024 18:33:23 UTC
+ Last Updated on 15/03/2024 18:33:20 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/kzoou2/github-readme-stats">
