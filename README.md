@@ -14,6 +14,8 @@
 
 > 📦 61.0 kB Used in GitHub's Storage 
  > 
+> 🏆 70 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -47,16 +49,17 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               34 mins             ████████████████████████░   95.51 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BB_Frontend              36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -76,7 +79,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kzoou2/kzoou2/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2024 18:37:58 UTC
+ Last Updated on 09/07/2024 18:37:52 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/kzoou2/github-readme-stats">
