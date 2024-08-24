@@ -14,6 +14,8 @@
 
 > 📦 61.1 kB Used in GitHub's Storage 
  > 
+> 🏆 72 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -47,17 +49,17 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               8 hrs 59 mins       █████████████████████████   98.07 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JavaScript               9 hrs 6 mins        ████████████████████████░   97.52 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BB_Frontend              9 hrs 10 mins       █████████████████████████   100.00 % 
+BB_Frontend              9 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -77,7 +79,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kzoou2/kzoou2/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2024 18:38:39 UTC
+ Last Updated on 24/08/2024 18:37:05 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/kzoou2/github-readme-stats">
