@@ -1,8 +1,8 @@
 
 ## Hey 👋, This is Kyung Joo
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joou3982@gmail.com)
-[![wakatime](https://wakatime.com/badge/user/018d1ca9-f45f-41c7-8716-a5f010f313d0.svg)](https://wakatime.com/@018d1ca9-f45f-41c7-8716-a5f010f313d0)
+<!-- ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joou3982@gmail.com)
+[![wakatime](https://wakatime.com/badge/user/018d1ca9-f45f-41c7-8716-a5f010f313d0.svg)](https://wakatime.com/@018d1ca9-f45f-41c7-8716-a5f010f313d0) -->
 
 
 <!--내용 부분-->
