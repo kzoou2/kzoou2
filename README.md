@@ -106,17 +106,17 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   5 hrs 36 mins       █████████████████████████   100.00 % 
+Python                   9 hrs 27 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/09/2024 18:43:03 UTC
+ Last Updated on 01/10/2024 18:42:56 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
