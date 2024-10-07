@@ -117,7 +117,7 @@ Windows                  6 hrs 38 mins       ███████████�
 ```
 
 
- Last Updated on 06/10/2024 18:39:22 UTC
+ Last Updated on 07/10/2024 18:41:55 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
