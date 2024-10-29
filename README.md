@@ -79,8 +79,44 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2032%20mins-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 28/10/2024 18:42:51 UTC
+```text
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+🌆 Daytime                164 commits         ██████████████░░░░░░░░░░░   57.95 % 
+🌃 Evening                69 commits          ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌙 Night                  49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Tuesday                  40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Wednesday                72 commits          ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Thursday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Friday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Saturday                 46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Sunday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/10/2024 18:42:55 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
