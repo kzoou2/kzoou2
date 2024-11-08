@@ -77,7 +77,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2056%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -106,17 +106,17 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   7 hrs 50 mins       █████████████████████████   100.00 % 
+Python                   8 hrs 58 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/11/2024 18:41:17 UTC
+ Last Updated on 08/11/2024 18:41:21 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
