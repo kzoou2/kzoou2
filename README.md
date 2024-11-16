@@ -77,7 +77,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2055%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -116,7 +116,7 @@ Windows                  9 hrs 58 mins       ███████████�
 ```
 
 
- Last Updated on 15/11/2024 18:43:10 UTC
+ Last Updated on 16/11/2024 18:40:42 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
