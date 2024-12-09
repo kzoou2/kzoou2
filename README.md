@@ -117,7 +117,7 @@ Windows                  10 mins             ███████████�
 ```
 
 
- Last Updated on 08/12/2024 18:41:57 UTC
+ Last Updated on 09/12/2024 18:45:47 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
