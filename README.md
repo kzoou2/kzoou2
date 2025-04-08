@@ -106,17 +106,18 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 14 mins        ██████████████████░░░░░░░   70.74 % 
+CSS                      30 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2025 18:43:20 UTC
+ Last Updated on 08/04/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
