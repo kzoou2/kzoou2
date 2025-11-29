@@ -77,7 +77,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%205%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -118,7 +118,7 @@ Windows                  6 hrs 59 mins       ███████████�
 ```
 
 
- Last Updated on 28/11/2025 18:46:38 UTC
+ Last Updated on 29/11/2025 18:45:49 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
