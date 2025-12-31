@@ -77,7 +77,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2012%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -106,17 +106,17 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               36 mins             █████████████████████████   100.00 % 
+JavaScript               37 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/12/2025 18:52:31 UTC
+ Last Updated on 31/12/2025 18:49:34 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
