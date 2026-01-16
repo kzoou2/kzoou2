@@ -17,8 +17,10 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/nextdotjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
 
 </div>
