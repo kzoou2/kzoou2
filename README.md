@@ -110,17 +110,21 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               43 mins             ████████████████████████░   97.63 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/01/2026 19:40:52 UTC
+ Last Updated on 21/01/2026 19:03:56 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
