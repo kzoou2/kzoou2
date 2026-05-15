@@ -81,46 +81,8 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%204%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-🌆 Daytime                187 commits         ███████████░░░░░░░░░░░░░░   44.10 % 
-🌃 Evening                113 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-🌙 Night                  122 commits         ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Tuesday                  56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Wednesday                99 commits          ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-Thursday                 81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Saturday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-JavaScript               30 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 20:11:39 UTC
+ Last Updated on 15/05/2026 19:58:07 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
