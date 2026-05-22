@@ -81,8 +81,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%209%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -120,7 +118,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2026 20:17:23 UTC
+ Last Updated on 22/05/2026 20:16:49 UTC
 <!--END_SECTION:waka-->
 
 <!--![Kyung Joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzoou2&layout=compact&theme=ayu-mirage)
